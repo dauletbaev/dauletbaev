@@ -6,6 +6,7 @@
   "files": [
     "base.json",
     "nextjs.json",
+    "fastify.json",
     "react-library.json"
   ]
 }
